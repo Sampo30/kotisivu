@@ -16,7 +16,7 @@ body {
       width: 100px;
   }
   .varoitus img {
-      width: 30%;
+      width: 100%;
   }
   ol {
       list-style-type: lower-alpha;
