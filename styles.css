@@ -9,11 +9,14 @@ body {
     font-size: 12px;
     color: green;
   }
-  div {
+  .varoitus {
       border-style: dotted;
       border-width: 2px;
       width: 100px;
       height: 100px;
+  }
+  .varoitus img {
+      width: fit-content;
   }
   ol {
       list-style-type: lower-alpha;
